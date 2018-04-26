@@ -8,7 +8,7 @@ Dataset: [LISA Traffic Light Dataset](https://www.kaggle.com/mbornoe/lisa-traffi
 
 YAD2K: [Folder used for retraining the model](https://github.com/allanzelener/YAD2K)
 
-![Retrained YOLO model on the Traffic Light Dataset](out_day/dayClip6--00108.jpg)
+![Retrained YOLO model on the Traffic Light Dataset](dayClip6--00108.jpg)
 
 --------------------------------------------------------------------------------
 
